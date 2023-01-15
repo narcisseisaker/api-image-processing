@@ -14,7 +14,7 @@ For that, we _resize_ images according to the name, width and height found in th
 - Start the express server by typing `npm run start`
 - Visit a url of this form http://localhost:3000/api/images?filename=imagename&width=200&height=300
 - Full image will be found in **assets/full** directory
-- The differents size of a image will be found in **assets/full** directory
+- The differents size of a image will be found in **assets/thumb** directory
 
 
 # License

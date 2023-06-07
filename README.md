@@ -8,13 +8,14 @@ For that, we _resize_ images according to the name, width and height found in th
 # Setup
 
 - Download the zip file of this project
-- Move to the project directory
+- Unzip the zip folder
+- Move to the project directory with is the unzip folder
 - Install all dependencies by typing `npm install`
 - Run the project by typing the command `npm run test`
 - Start the express server by typing `npm run start`
-- Visit a url of this form http://localhost:3000/api/images?filename=imagename&width=200&height=300
+- Visit an url of this form http://localhost:3000/api/images?filename=imagename&width=200&height=300
 - Full image will be found in **assets/full** directory
-- The differents size of a image will be found in **assets/thumb** directory
+- The differents size of the full image will be found in **assets/thumb** directory
 
 
 # License
